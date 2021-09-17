@@ -1,7 +1,7 @@
 function estaEntre(numero, minimo, maximo, inclusivo = false){
 
-    if(inclusivo == true && (numero == minimo || numero == maximo)) return true;
-    else if(numero > minimo && numero < maximo) return true;
+    if(numero > minimo && numero < maximo) return true;
+    else return false;
     
 }
 
