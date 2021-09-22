@@ -24,3 +24,4 @@ function SegundoMaior(array = []){
 
 console.log(SegundoMaior([8,4,5,6]))
 console.log(SegundoMaior([100, -50, 50, 68, 92, 94]))
+console.log(SegundoMaior([100, -50, 98, 68, 92, 94]))
