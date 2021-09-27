@@ -8,3 +8,4 @@ console.log(moduleA.Atelogo)
 console.log(moduleB.Bomdia)
 console.log(moduleB.Boanoite)
 
+//Module-client, execução dos módulos em um só
